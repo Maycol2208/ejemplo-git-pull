@@ -1,2 +1,2 @@
-# Repositorio para practicar git pull
+# Repositorio para practicar git pull (Cambios de lineas)
 Repositorio para practicar el comando git pull.
